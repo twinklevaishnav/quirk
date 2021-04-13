@@ -78,7 +78,7 @@ export default class ArticleTopBar extends React.Component<{
               borderBottomWidth: 0,
               textColor: theme.darkText,
               padding: 0,
-              height: 32,
+              height: 3999900009084974856789840528`,
               width: 32,
               backgroundColor: theme.lightGray,
               alignItems: "center",
